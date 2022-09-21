@@ -44,3 +44,16 @@ h6.MER{
     font-style: italic;
     color: tomato;
 }
+.table{
+    border: 4px;
+    border-style: double;
+    color:antiquewhite;
+    text-align: center;
+    background-color: blueviolet;
+    padding: 2px;
+    margin: 2px;
+
+}
+tr:nth-child(even){
+    background-color: cyan;
+}
